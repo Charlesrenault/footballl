@@ -1,0 +1,15 @@
+.btn-blue {
+  background-color: #3498db;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease, color 0.3s ease; /* Add transition for smooth hover effect */
+}
+
+.btn-blue:hover {
+  background-color: #2980b9; /* Change background color on hover */
+  color: #ffffff; /* Change text color on hover */
+}

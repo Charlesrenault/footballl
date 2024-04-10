@@ -1,0 +1,22 @@
+.banner {
+  background-image: url(../../pictures/zidane.jpg); /* Set the background image */
+  background-color: #f0f0f0; /* Add a background color as fallback */
+  color: white; /* Set text color to white */
+  padding: 100px 0; /* Set top and bottom padding to 100px, left and right padding to 0 */
+  height: 500px; /* Set a fixed height */
+  width: 100%; /* Set the width to 100% */
+  background-size: cover; /* Cover the entire element with the background image */
+  background-position: center; /* Center the background image horizontally and vertically */
+  text-align: left; /* Center align text content horizontally */
+}
+
+.banner h1 {
+  font-size: 50px; /* Set font size for h1 */
+}
+
+.banner h2 {
+  font-size: 30px; /* Set font size for h2 */
+  font-weight: lighter; /* Set font weight for h2 */
+  opacity: 0.8;
+  margin-bottom: 40px;
+}
